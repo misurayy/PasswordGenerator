@@ -11,4 +11,4 @@ A terminal-based password generator built in Python.
 ## Usage
 
 ```bash
-python password_generator.py
+python PasswordGenerator.py
